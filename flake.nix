@@ -17,7 +17,6 @@
           packages = with pkgs; [
             agda
             agdaPackages.standard-library
-            ghc
           ];
         };
       }
