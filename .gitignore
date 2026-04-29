@@ -2,7 +2,6 @@
 /.direnv
 
 # agda
-/src/MAlonzo
-hello-world
-hello-world.agdai
+/src
+!/src/*.agda
 
